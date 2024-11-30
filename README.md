@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Andrew Surya (洪理川）</h1>
-<h3 align="center">Makes programming a part of my life</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew53o&label=Profile%20views&color=0e75b6&style=flat" alt="andrew53o" /> <small> from 12 may 2023 </small></p>
 
